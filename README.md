@@ -18,7 +18,7 @@ The raw datasets are included in `.txt` files (e.g. `Datasets/Video/Video.txt`),
 python Datasets/Video/dataset_video.py
 ```
 
-Then you could preprocess the dataset with the information:
+Then you could preprocess the dataset:
 
 ```shell
 python Datasets/Video/input_gen_video.py
