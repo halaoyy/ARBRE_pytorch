@@ -1,6 +1,6 @@
 # ARBRE_pytorch
 
-The source code of ARBRE (Asymmetrical Context-aware Modulation for Collaborative Filtering Recommendation).
+The source code for ARBRE proposed by CIKM'22 paper: Asymmetrical Context-aware Modulation for Collaborative Filtering Recommendation.
 
 ## Environment Requirements
 
